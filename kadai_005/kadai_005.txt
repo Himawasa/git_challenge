@@ -2,6 +2,6 @@ mkdir git_challenge
 cd git_challenge
 git init
 git add hello_world.txt
-git commit -m "1‰ñ–Ú"
+git commit -m "1å›žç›®"
 git add hello_world.txt
-git commit -m "2‰ñ–Ú"
+git commit -m "2å›žç›®"
