@@ -1,7 +1,0 @@
-mkdir git_challenge
-cd git_challenge
-git init
-git add hello_world.txt
-git commit -m "1回目"
-git add hello_world.txt
-git commit -m "2回目"
