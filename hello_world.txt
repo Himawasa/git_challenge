@@ -1,2 +1,6 @@
 Hello_world!
+<<<<<<< Updated upstream
 ‚±‚ñ‚Î‚ñ‚ÍA¢ŠE
+=======
+ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œ
+>>>>>>> Stashed changes
